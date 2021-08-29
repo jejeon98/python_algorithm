@@ -2,7 +2,6 @@ import sys
 sys.stdin=open("input.txt","rt")
 f=sys.stdin
 n=int(input())
-fw=[]
 for i in range(n):
     a=list(f.readline().strip().upper())
     lw=[]
