@@ -9,11 +9,3 @@ for i in range(10):
         card[j+a-1],card[b-j-1]=card[b-j-1],card[j+a-1]
 for a in card:
     print(a,end=' ')
-
-
-
-
-
-        
-
-
