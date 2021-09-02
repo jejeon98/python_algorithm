@@ -9,13 +9,3 @@ for i in list2:
 list1=sorted(list1)
 for i in list1:
     print(i, end=" ")
-
-
-
-
-
-
-
-        
-
-
